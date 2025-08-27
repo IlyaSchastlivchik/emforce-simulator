@@ -1,0 +1,20 @@
+# Файлы и папки Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Файлы сборки
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+# Файлы пакетов NuGet
+packages/
+*.nupkg
+
+# Резервные файлы и временные файлы
+*.bak
+*.tmp
